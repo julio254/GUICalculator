@@ -1,0 +1,13 @@
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/bin/Debug/GUICalculator.exe
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/bin/Debug/GUICalculator.pdb
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/GUICalculator.csprojAssemblyReference.cache
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/GUICalculator.csproj.CoreCompileInputs.cache
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/GUICalculator.exe
+/Users/juliolopez/Desktop/code/OOP/GUICalculator/GUICalculator/obj/Debug/GUICalculator.pdb
